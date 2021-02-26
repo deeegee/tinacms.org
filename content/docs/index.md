@@ -1,7 +1,7 @@
 ---
 title: TinaCMS Documentation
 id: introduction
-last_edited: '2021-02-26T11:42:04.407Z'
+last_edited: '2021-02-26T11:42:23.842Z'
 ---
 Tina is a **toolkit for building visual editing** into your site. By creating a custom editing experience with Tina instead of opting for a conventional CMS, developers can give their teams a contextual, intuitive editing experience without sacrificing code quality.
 
