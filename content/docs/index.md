@@ -1,15 +1,15 @@
 ---
 title: TinaCMS Documentation
 id: introduction
-last_edited: '2021-02-26T11:39:32.644Z'
+last_edited: '2021-02-26T11:42:04.407Z'
 ---
 Tina is a **toolkit for building visual editing** into your site. By creating a custom editing experience with Tina instead of opting for a conventional CMS, developers can give their teams a contextual, intuitive editing experience without sacrificing code quality.
 
-# First Steps
+## First Steps dg
 
 ![](/img/Mars_Perseverance_ZRF_0002_0667133542_199FDR_T0010052ZCAM00022_000300J01.png)
 
-Robin - Are you new to using Tina to build content management systems? Start with these resources to build your understanding of Tina and what's possible.
+Are you new to using Tina to build content management systems? Start with these resources to build your understanding of Tina and what's possible.
 
 * Go through the [**Getting Started Tutorial**](/docs/getting-started/introduction "Getting Started"): [Installing ](/docs/getting-started/cms-set-up#install-tinacms)_[tinacms](/docs/getting-started/cms-set-up#install-tinacms)_ | [Creating a CMS instance and adding the ](/docs/getting-started/cms-set-up#create-a-cms-instance-add-tinaprovider)_[TinaProvider](/docs/getting-started/cms-set-up#create-a-cms-instance-add-tinaprovider)_
   | [Configuring the CMS object](/docs/getting-started/cms-set-up#configure-the-cms-object)
